@@ -104,3 +104,7 @@ footer p {
     width: 315px;
     height: 260px;
 }
+.foot {
+    display: flex;
+    justify-content: center;
+}
